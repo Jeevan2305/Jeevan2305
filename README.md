@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan Muthu</h1>
-<h3 align="center">A Boy trying to figure out stuff</h3>
+<h3 align="center">A Boy trying to Figure-out stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan2305&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan2305" /> </p>
 
