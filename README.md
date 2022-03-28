@@ -1,3 +1,6 @@
+[![MasterHead](https://content.techgig.com/photo/74771449/5-statically-type-languages-every-programmer-should-explore.jpg?3052040)]
+
+
 <h1 align="center">Hi 👋, I'm Jeevan Muthu</h1>
 <h3 align="center">A Boy trying to Figure-out stuff!!</h3>
 
@@ -5,11 +8,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan2305" alt="jeevan2305" /></a> </p>
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **GitHub**
 
 - 📫 How to reach me **jeevanmuthuofficial@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny XD**
+
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
