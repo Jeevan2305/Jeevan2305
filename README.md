@@ -1,4 +1,4 @@
-[![MasterHead](https://content.techgig.com/photo/74771449/5-statically-type-languages-every-programmer-should-explore.jpg?3052040)]
+![MasterHead](https://content.techgig.com/photo/74771449/5-statically-type-languages-every-programmer-should-explore.jpg?3052040)
 
 
 <h1 align="center">Hi 👋, I'm Jeevan Muthu</h1>
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I think I am funny XD**
 
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
