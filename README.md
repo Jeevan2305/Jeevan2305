@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a college student.<br>I'm currently learning web development.<br>Fun Fact: Sparkling kindness everywhere I go.
+I'm a college student.<br>I'm currently learning web development.
 
 
 ## 🌐 Socials:
