@@ -10,8 +10,6 @@ I'm a college student.<br>I'm currently learning web development.
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevan2305&theme=tokyonight&hide_border=false)<br/>
 
-[![Jeevan2305's GitHub | Topics Over Time](https://stats.quine.sh/Jeevan2305/topics-over-time?theme=light)](https://quine.sh)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
