@@ -1,4 +1,3 @@
-![Header](./header.png)
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="" width="400" align="right" />
 
 # 💫 About Me:
