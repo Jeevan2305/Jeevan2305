@@ -1,5 +1,3 @@
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="" width="400" align="right" />
-
 # 💫 About Me:
 🎓 I'm a college student currently pursuing my B.Tech in Computer Science and Business System at Rajalakshmi Engineering College, Chennai, India.<br><br>🔭 I'm passionate about computer science and technology, and I love coding, building projects, and exploring new ideas.<br><br>💻 My main area of interest lies in web development, where I enjoy crafting responsive and user-friendly web applications.<br><br>🤝 I'm open to collaborating on exciting projects and eager to contribute to the tech community.
 
