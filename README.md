@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 I'm a college student currently pursuing my B.Tech in Computer Science and Business System at Rajalakshmi Engineering College, Chennai, India.<br><br>🔭 I'm passionate about computer science and technology, and I love coding, building projects, and exploring new ideas.<br><br>🤝 I'm open to collaborating on exciting projects and eager to contribute to the tech community.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YxHHZAtt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevan-muthu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14970635) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jeevanmuthu_) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jeevan2305) 
 
 # 💻 Tech Stack:
